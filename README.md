@@ -2,11 +2,12 @@
 
 ## Beschreibung
 Für die Entwicklung der Hololens 2-App haben wurde Unity benutzt. Aus dem Mixed Reality Feature Tool muss dazu das Mixed Reality Toolkit Foundation und das Mixed Reality OpenXR Plugin implementiert sein.
-Alle von in diesem Projekt erstellen Materialien, Szenen und Skripte sind unter Assets/App zu finden. 
+Alle in diesem Projekt erstellen Materialien, Szenen und Skripte sind unter Assets/App zu finden. 
 Die App wird auf der Hololens 2 ausgeführt.
 Ziel ist es, eine von einer Person vorgefahrenen Strecke, welche von der App aufgezeichnet wird, möglichst genau von einer zweiten Person nachfahren zu lassen. Das Ergebnis wird zum Schluss visualisiert. 
 Die aufgezeichnete Strecke wird durch Augmented reality (Hololens 2) aufgezeichnet und visualisiert. 
-Es gibt verschiedene Elemente zur orientierung: Eine 2D-Karte, einen Wegweiser, Töne zur Orientierung, ausblenden der Strecke, Strecke nur auf 2D-Karte.
+Es gibt verschiedene Elemente zur orientierung: Eine 2D-Karte, einen Wegweiser, Töne zur Orientierung, ausblenden der Strecke, Strecke nur auf 2D-Karte. Die verschiedenen Elemente können in den Einstellungen ein- und ausgeschaltet werden und miteinander kombiniert werden.
+
 
 
 
